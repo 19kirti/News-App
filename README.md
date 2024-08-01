@@ -1,6 +1,5 @@
 ## The NewsApp - NEWS.next
 
-![newsAppBg](https://github.com/user-attachments/assets/d8f9dad9-fa76-4afe-83f9-e43a3bb8dcae)
 
 
 ## Description
