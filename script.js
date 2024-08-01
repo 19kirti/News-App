@@ -67,8 +67,7 @@ function displayBlocks(articles){
 
         const img = document.createElement("img");
         img.src = article.urlToImage || "https://starryoptics.com/wp-content/uploads/2022/05/NEWS.jpg";
-        img.alt = article.title || "Here's the update on the latest happening!" ;
-
+        img.alt = article.title;
         const heading = document.createElement("h2");
         const shortHead = article.title > 30 ? article.title.slice(0,30)+ "..." : article.title;
         heading.textContent = shortHead; 
